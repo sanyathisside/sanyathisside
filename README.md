@@ -18,7 +18,7 @@
 
 ### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> Languages: C, C++, Python, SQL, Javascript, Assembly Language.
 
-### <img src="https://media.giphy.com/media/eGx2WjCngw3Iq9gd6k/giphy.gif" width="30"> Familiar with Git, Data Structures and Algorithms, Data Science, Web Development, Microprocessors, MATLAB, IoT, PLC, and SCADA.
+### <img src="https://media.giphy.com/media/eGx2WjCngw3Iq9gd6k/giphy.gif" width="30"> Familiar with Git, Data Structures and Algorithms,Machine Learning, Data Science, Web Development, Microprocessors, MATLAB, IoT, PLC, and SCADA.
 
 
 ### <img src="https://media.giphy.com/media/ekdrkc4RgB3elF8e7t/giphy.gif" width="30"> Open to new opportunities and collaborative work in the above-mentioned fields.
