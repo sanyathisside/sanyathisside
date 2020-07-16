@@ -16,7 +16,7 @@
 
 ### <img src="https://media.giphy.com/media/WrId87Fg6pEFFO46iQ/giphy.gif" width="30"> Pursuing a Bachelor's degree in Electrical Engineering from Thapar Institute of Engineering and Technology, Patiala. 
 
-### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> Languages: C, C++, Python, SQL, HTML, CSS, Javascript, Assembly Language.
+### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> Languages: C, C++, Python, SQL, Javascript, Assembly Language.
 
 ### <img src="https://media.giphy.com/media/eGx2WjCngw3Iq9gd6k/giphy.gif" width="30"> Familiar with Git, Data Structures and Algorithms, Data Science, Web Development, Microprocessors, MATLAB, IoT, PLC, and SCADA.
 
