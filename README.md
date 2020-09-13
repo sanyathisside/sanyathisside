@@ -4,12 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sanyathisside-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyathisside)](https://www.linkedin.com/in/sanyathisside/)
 [![Gmail Badge](https://img.shields.io/badge/-1701sanya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1701sanya@gmail.com)](mailto:1701sanya@gmail.com)
-
-
 ![](https://komarev.com/ghpvc/?username=sanya2508)
-
-
-
 
 <hr/>
 
@@ -19,11 +14,11 @@
 
 #### Technical proficiencies include:
  
-  • Languages: C, C++, Python, SQL, Javascript, Assembly Language.
+####  • Languages: C, C++, Python, SQL, Javascript, Assembly Language.
   
-  • Skilled in Git, Data Structures and Algorithms, Object-oriented Programming, Data Analysis, Data Science, basics of Web Development, Microprocessors, MATLAB, IoT, PLC, and SCADA.
+####  • Skilled in Git, Data Structures and Algorithms, Object-oriented Programming, Data Analysis, Data Science, basics of Web Development, Microprocessors, MATLAB, IoT, PLC, and SCADA.
  
-  • Also interested in blockchain, graphic designing, photography, and content writing.
+####  • Also interested in blockchain, graphic designing, photography, and content writing.
 
 #### <img src="https://media.giphy.com/media/ekdrkc4RgB3elF8e7t/giphy.gif" width="30"> Open to new opportunities and collaborative work in the above-mentioned fields.
 
