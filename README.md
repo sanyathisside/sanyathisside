@@ -14,7 +14,7 @@
 
 ### Technical proficiencies include:
  
-####  • Languages: C, C++, Python, SQL, Javascript, Assembly Language.
+####  • Languages: C, C++, C#, Python, SQL, Javascript, Assembly Language.
   
 ####  • Skilled in Git, Data Structures and Algorithms, Object-oriented Programming, Data Analysis, Data Science, basics of Web Development, Microprocessors, MATLAB, IoT, PLC, and SCADA.
  
