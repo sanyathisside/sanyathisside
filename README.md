@@ -1,12 +1,10 @@
-### Hello There! I am <a href="http://sanya2508.github.io/"> Sanya.</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="100">
+### Hello There! I am <a href="http://sanya2508.github.io/"> Sanya.</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="80">
 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sanyathisside-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyathisside)](https://www.linkedin.com/in/sanyathisside/)
 [![Gmail Badge](https://img.shields.io/badge/-1701sanya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1701sanya@gmail.com)](mailto:1701sanya@gmail.com)
 ![](https://komarev.com/ghpvc/?username=sanya2508)
-
-<hr/>
 
 <!--## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> Summary: <img src="https://media.giphy.com/media/lPAXUzSS1PlwgH53oz/giphy.gif" width="30">-->
 
