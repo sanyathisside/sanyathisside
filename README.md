@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sanyathisside-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyathisside)](https://www.linkedin.com/in/sanyathisside/)
 [![Gmail Badge](https://img.shields.io/badge/-1701sanya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1701sanya@gmail.com)](mailto:1701sanya@gmail.com)
-![](https://komarev.com/ghpvc/?username=sanya2508)
+![](https://komarev.com/ghpvc/?username=sanyathisside)
 
 <!--## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> Summary: <img src="https://media.giphy.com/media/lPAXUzSS1PlwgH53oz/giphy.gif" width="30">-->
 
@@ -22,4 +22,4 @@
 
 <!--<hr/> -->
 
-![](https://github-readme-stats.vercel.app/api?username=sanya2508&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sanyathisside&show_icons=true)
